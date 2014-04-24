@@ -20,7 +20,7 @@ public class MovieInfo {
       while ((line = reader.readLine()) != null) {
         content += line;
       }
-      return jsonParser..parseJson(content);
+      return jsonParser.parseJson(content);
     } catch (Exception ex) {
       throw new RuntimeException(ex);
     }
