@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="lib" path="/Users/nicolewolf/git/copSampleCode/ReactiveExample/bin/rxjava-core-0.17.5.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/nicolewolf/git/copSampleCode/ReactiveExample/bin/quick-json-1.0.2.3.jar"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
